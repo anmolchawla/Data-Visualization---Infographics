@@ -6,9 +6,9 @@ Assignment 3. Critiquing visualizations in news media. Find 2 different infograp
 
 | 	            | Infographics	| Comparison | Improvements | Documentation |
 | ------------- | ------------- | ---------- | ------------ | ------------- |
-| Sophisticated	|               |            |              |               |
-| Competent	    |               |            |              |               |
-| Needs work	  |               |            |              |               |
+| Sophisticated	|               |            |              | Demonstrated use of Markdown and well written and well presented |
+| Competent	    |               |            |              | Not using or not demonstrated use of Markdown, parly well written and/or presented |
+| Needs work	  |               |            |              | Not using or not demonstrated use of Markdown, poorly or not well written and/or presented |
 
 
 ## Homework Guidelines
