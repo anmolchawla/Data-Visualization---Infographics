@@ -5,8 +5,8 @@
 Critiquing information visualizations in news media
 
 * Find 2 different infographics on the same subject
-  * In a Markdown file called `README.md`, add the images and cite the sources
-* Compare them using the visualization wheel
+* In `README.md` use Markdown to add show images of the infographics and cite the sources/subject
+* Compare them using the visualization wheel (you can use Inkscape to draw the wheel)
 * Identify what they do well and what they do poorly
 * Suggest improvements for the things they do poorly
 * Document your analysis in `README.md`
