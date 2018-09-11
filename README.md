@@ -15,3 +15,8 @@ Based on the factor descriptions in the book the various points on the wheel wer
 After each wheel, three pieces of information were provided 1) What was done right or well : A simple acknowledgement of the things that were appropriate. 2). What was not done that well: Even though these infographics were made by extreme professionals and crtiquing them was not the aim but the aim was to showcase what else as a designer of these infogrpahics could have been personally done. 3) Imporvemnets: slight improvements and changes or suggestions.
 
 The goal was to showcase knowledge of design metrics and familiarity with infogrpahics.
+
+
+
+Note:
+The sources of the images are written at the bottom of the image and their respective website (I beleive that is the correct format for image citation). If the exact link is needed please get in touch at anmolcha@usc.edu
